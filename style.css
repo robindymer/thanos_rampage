@@ -1,6 +1,7 @@
 html, body {
   margin: 0;
   padding: 0;
+  text-align: center;
   padding-left: 0.5%;
   padding-top: 0.5%;
   background-image: linear-gradient(to right, rgba(167, 136, 168,1), rgba(111, 60, 137,1));
